@@ -1,0 +1,14 @@
+.vertical-space {
+	padding: 10px 0 10px 0;
+}
+.wrap {
+	word-break: break-all; word-wrap: break-word;	
+}
+.line {
+	border-style: solid;
+	border-width: 0 0 1px 0;
+}
+.date{
+	margin: 0;
+	padding-left: 0.75rem;
+}
